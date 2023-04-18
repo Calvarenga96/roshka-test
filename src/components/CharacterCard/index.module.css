@@ -1,0 +1,13 @@
+.cardContainer {
+    width: max-content;
+    border: 1px solid black;
+    border-radius: 10px;
+}
+
+.cardContainer img {
+    border-radius: 10px 10px 0 0;
+}
+
+.cardTextData {
+    padding: 10px;
+}
